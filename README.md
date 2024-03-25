@@ -6,7 +6,7 @@
 ### Pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbindesh&repo=devops-masterclass)](https://github.com/kbindesh/devops-masterclass)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbindesh&repo=git-bootcamp)](https://github.com/kbindesh/git-bootcamp)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbindesh&repo=ms-sentinel-bootcamp)](https://github.com/kbindesh/ms-sentinel-bootcamp)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbindesh&langs_count=5)
