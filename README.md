@@ -2,8 +2,14 @@
 
 - 🎯 I'm a Cloud Architect and an IT Instructor.
 - ⚡ *My Technology Stack*: Amazon Web Services, Microsoft Azure, Kubernetes, Ansible, Salesforce, Python 3.x, Helm, Data Engineering Technologies, Cloud Security.
+
+### Pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbindesh&repo=devops-masterclass)](https://github.com/kbindesh/devops-masterclass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbindesh&repo=git-bootcamp)](https://github.com/kbindesh/git-bootcamp)
+
+
 ---
-![Bindesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=kbindesh&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbindesh&langs_count=5)
 ---
 
 <!--
