@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello Techie 👋
+
+- 🎯 I'm a Cloud Architect and an IT Instructor.
+- ⚡ *My Technology Stack*: Amazon Web Services, Microsoft Azure, Kubernetes, Ansible, Salesforce, Python 3.x, Helm, Data Engineering Technologies, Cloud Security.
+---
+![Bindesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=kbindesh&show_icons=true&theme=nightowl)
+---
 
 <!--
 **kbindesh/kbindesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
