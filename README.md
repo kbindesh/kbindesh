@@ -30,5 +30,9 @@
 
 ### 🍁 Projects
 
-| Project Name | Description | Tools used | Link |
-| :--- | :--- | :--- | :--- |
+| S.No. | Project Name | Description | Tools used | Learning Outcome | Link | 
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | Create customized cloud infrastructure using Hashicorp Terraform | Focus on provisioning your base cloud infrastructure using code and automating the foundation of your environment | Git/ GitHub, Terraform, Jenkins | You master cloud infrastructure provisioning, state file management, and basic automation |  https://github.com/kbindesh/devops-bootcamp/tree/main
+| 02 | Create an end-to-end Jenkins based CD pipeline for building and deploying Apps on VM |  Tie all components together into a single automated pipeline that takes raw code from a developer and drops it smoothly into VM (test/prod) | Git/ GitHub, Jenkins, SonarQube, Nexus | You will master creating automated CI/CD Pipeline flows for conventional Applications | https://github.com/kbindesh/devops-bootcamp/tree/main | 
+| 03 | Create an end-to-end Jenkins based CD pipeline for building and deploying Docker Apps | Tie all components together into a single automated pipeline that takes raw code from a developer and drops it smoothly on Docker Host | Git/ GitHub, Jenkins, SonarQube, Docker, Docker Hub | You learn how to securely build and deploy containerized application on Docker Host through an automated pipeline | https://github.com/kbindesh/devops-bootcamp/tree/main | 
+| 04 | Create an end-to-end Jenkins based CD pipeline for building and deploying Apps on Kubernetes cluster | Tie all components together into a single automated pipeline that takes raw code from a developer and drops it smoothly on Kubernetes cluster | Git/ GitHub, Jenkins, SonarQube, Docker, Docker Hub, eksctl, kubectl, AWS CLI, Kubernetes  | You learn how to securely build and deploy containerized application on Kubernetes cluster through an automated pipeline | https://github.com/kbindesh/devops-bootcamp/tree/main |  
